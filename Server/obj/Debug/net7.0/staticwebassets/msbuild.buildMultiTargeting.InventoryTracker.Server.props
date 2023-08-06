@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\InventoryTracker.Server.props" />
+</Project>

@@ -1,0 +1,12 @@
+C:\Users\Stephen\Documents\Github\InventoryTracker\Shared\bin\Debug\net7.0\InventoryTracker.Shared.deps.json
+C:\Users\Stephen\Documents\Github\InventoryTracker\Shared\bin\Debug\net7.0\InventoryTracker.Shared.dll
+C:\Users\Stephen\Documents\Github\InventoryTracker\Shared\bin\Debug\net7.0\InventoryTracker.Shared.pdb
+C:\Users\Stephen\Documents\Github\InventoryTracker\Shared\obj\Debug\net7.0\InventoryTracker.Shared.csproj.AssemblyReference.cache
+C:\Users\Stephen\Documents\Github\InventoryTracker\Shared\obj\Debug\net7.0\InventoryTracker.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stephen\Documents\Github\InventoryTracker\Shared\obj\Debug\net7.0\InventoryTracker.Shared.AssemblyInfoInputs.cache
+C:\Users\Stephen\Documents\Github\InventoryTracker\Shared\obj\Debug\net7.0\InventoryTracker.Shared.AssemblyInfo.cs
+C:\Users\Stephen\Documents\Github\InventoryTracker\Shared\obj\Debug\net7.0\InventoryTracker.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Stephen\Documents\Github\InventoryTracker\Shared\obj\Debug\net7.0\InventoryTracker.Shared.dll
+C:\Users\Stephen\Documents\Github\InventoryTracker\Shared\obj\Debug\net7.0\refint\InventoryTracker.Shared.dll
+C:\Users\Stephen\Documents\Github\InventoryTracker\Shared\obj\Debug\net7.0\InventoryTracker.Shared.pdb
+C:\Users\Stephen\Documents\Github\InventoryTracker\Shared\obj\Debug\net7.0\ref\InventoryTracker.Shared.dll
