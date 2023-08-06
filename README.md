@@ -1,1 +1,3 @@
 # InventoryTracker
+
+lorem
