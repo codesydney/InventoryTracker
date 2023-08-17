@@ -69,6 +69,10 @@
       "PackagePath": "staticwebassets\\icon-192.png"
     },
     {
+      "Id": "C:\\Users\\Stephen\\Documents\\Github\\InventoryTracker\\Client\\wwwroot\\images\\ocean.jpg",
+      "PackagePath": "staticwebassets\\images\\ocean.jpg"
+    },
+    {
       "Id": "C:\\Users\\Stephen\\Documents\\Github\\InventoryTracker\\Client\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
